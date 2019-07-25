@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "name": "zhuliang"
     },
     {
       "id": 2,
@@ -14,6 +15,8 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+    "url1": "https://my-json-server.typicode.com/zhuliangyu/mockJson/posts",
+    "url2": "https://my-json-server.typicode.com/zhuliangyu/mockJson/posts/1"
   }
 }
